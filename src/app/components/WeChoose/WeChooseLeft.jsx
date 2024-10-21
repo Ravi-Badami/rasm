@@ -4,6 +4,7 @@ import Line2 from '../../public/Line_2';
 import Choose1 from '../../public/Choose_1';
 import Choose2 from '../../public/Choose_2';
 import Choose3 from '../../public/Choose_3';
+/* eslint-disable react/no-unescaped-entities */
 
 const WeChooseLeft = () => {
   return (
@@ -18,9 +19,8 @@ const WeChooseLeft = () => {
             We Have 25 Years Of Experience With Nail Style.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum sapiente vero suscipit
-            nobis animi molestias, consequuntur obcaecati doloribus quia nihil qui eligendi odit
-            facilis consequatur fugit totam a, ipsam rem!
+            ravi ravi ravi ravi ravi ravi ravi ravi vravi ravi ravi ravi ravi ravi vravi ravi ravi
+            ravi ravi ravi ravi ravi ravi ravi ravi ravi ravi ravi ravi ravi{' '}
           </p>
         </div>
         <div className=' mt-4 h-56'>
