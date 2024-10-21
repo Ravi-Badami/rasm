@@ -19,8 +19,8 @@ const WeChooseLeft = () => {
           </p>
           <p>
             We prioritize the cleanliness and comfort of our clients, ensuring a hygienic and
-            relaxing environment throughout your visit. Our salon adheres to strict sanitization
-            protocols, and all our tools.
+            relaxing environment throughout your visit. Our salon strictly adheres to sanitization
+            protocols, and all our tools are thoroughly sterilized after each use.
           </p>
         </div>
         <div className=' mt-4 h-56'>
