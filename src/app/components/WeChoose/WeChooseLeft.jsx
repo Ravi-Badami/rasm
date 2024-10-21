@@ -18,9 +18,9 @@ const WeChooseLeft = () => {
             We Have 25 Years Of Experience With Nail Style.
           </p>
           <p>
-            We prioritize the cleanliness and comfort of our clients, ensuring a hygienic and
-            relaxing environment throughout your visit. Our salon strictly adheres to sanitization
-            protocols, and all our tools are thoroughly sterilized after each use.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum sapiente vero suscipit
+            nobis animi molestias, consequuntur obcaecati doloribus quia nihil qui eligendi odit
+            facilis consequatur fugit totam a, ipsam rem!
           </p>
         </div>
         <div className=' mt-4 h-56'>
