@@ -1,0 +1,30 @@
+.parallelogram {
+  position: relative;
+  background-color: white;
+  height: 4rem; /* Same as h-16 */
+  width: 25%; /* Same as w-3/12 */
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%); /* Creates the parallelogram */
+}
+.service-sec {
+  background: linear-gradient(
+    90deg,
+    rgb(238, 237, 237) 0%,
+    rgb(214, 185, 171) 49.27%,
+    rgba(228, 221, 217, 0.986) 100%
+  );
+}
+
+.price-sec {
+  background: linear-gradient(
+    90deg,
+    rgb(83, 82, 82, 0.8) 20%,
+    rgb(214, 185, 171) 49.27%,
+    rgba(228, 221, 217, 0.986) 100%
+  );
+}
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
